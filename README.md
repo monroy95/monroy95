@@ -6,7 +6,6 @@
 <!-- - [Twitter](https://twitter.com/monroy95)  -->
 - [LinkedIn](https://www.linkedin.com/in/mariomonroyc/) 
 - [DEV](https://dev.to/mmonroy_) 
-- My personal blog - [MR M](https://mmonroyc.wordpress.com/)
 - [Medium](https://m-monroyc22.medium.com)
 - [Si Hay Sistema](https://sihaysistema.com/)
 
