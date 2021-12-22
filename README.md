@@ -7,7 +7,6 @@
 - [LinkedIn](https://www.linkedin.com/in/mariomonroyc/) 
 - [DEV](https://dev.to/mmonroy_) 
 - [Medium](https://m-monroyc22.medium.com)
-- [Si Hay Sistema](https://sihaysistema.com/)
 
 <p align="center"> 
   Visitors count<br>
