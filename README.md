@@ -43,7 +43,7 @@
 </div>
 -->
 
-<div> 
+<div style={'width': 100%}> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
