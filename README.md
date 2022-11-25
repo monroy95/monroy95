@@ -14,7 +14,7 @@
 </p>
 
 <!-- <details> -->
-<summary>⚡️ More about my coding life</summary>
+<!--  <summary>⚡️ More about my coding life</summary> -->
 
 <div style="display: inline_block"><br>
   > Frappe/ERPNext 
