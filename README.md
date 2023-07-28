@@ -45,7 +45,7 @@
 
 <div style={'width': 100%}> 
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/monroy95/monroy95/assets/26640728/b1b0528f-ea52-4643-ad03-ec5bf35fe4c7)
+
 </div>
 <!-- </details> -->
